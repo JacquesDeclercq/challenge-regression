@@ -69,7 +69,7 @@ There are 2 vacation blocks during the training:
 
 | Dates                        | What are we doing? |
 | ---------------------------- | ------------------ |
-| July 9th     -> July 23rd    | Planned vacation   |
+| July 19th     -> July 23rd    | Planned vacation   |
 | September 27th -> October 1st| Planned vacation   |
 
 All **Bank Holidays** will be respected as well.
