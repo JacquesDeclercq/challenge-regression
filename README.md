@@ -1,4 +1,4 @@
-# AI-track
+   # AI-track
 
 ## Course Overview
 
@@ -17,7 +17,7 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 
 | Field                                                                            |                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Terminal](https://github.com/becodeorg/ai-track/tree/master/content/1.terminal) | Introduction to the fundamentals of the command line interface (Unix/Linux) such as navigation, file operation, permissions, package management, text edition, pipes, FIFO, re-directions, environment variables and versioning tools like git. |
+| [Terminal](https://github.com/becodeorg/GNT-Arai-2.31/tree/master/content/1.terminal) | Introduction to the fundamentals of the command line interface (Unix/Linux) such as navigation, file operation, permissions, package management, text edition, pipes, FIFO, re-directions, environment variables and versioning tools like git. |
 | Python    | Introduction to the language fundamentals in order to execute simple tasks. Understanding the OOP principles and the processes that are required to work with all kinds of files that contain data.                                             |
 
 | Hill                                                                                                                    |                                                                                                                                                                                                                                                                                           |
