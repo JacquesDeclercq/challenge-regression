@@ -32,10 +32,11 @@ In this repository you will find all the data we collected and all the code we u
 # Visuals
 
 ## Heatmap showing correlation between all features and price.
+![Heatmap](./plots/heatmap.png)
 
 
 ## Plot showing high price of villa in brussels region then other region in Belgium.
-
+![Villa](./plots/villa3.png)
 
 # Contributors
 
